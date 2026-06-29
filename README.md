@@ -21,7 +21,7 @@ This repository contains a structured C application designed for managing PC com
 
 ### 👥 Team Members (Group X - SU26)
 
-1. Tien Khai - [GitHub Link]
+1. Tien Khai - [https://github.com/nozomi-kobayashi]
 
 2. Phu Hung - [GitHub Link]
 
